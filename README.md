@@ -1,4 +1,4 @@
-# Challenge_amigo_secreto-Alura_Latam
+# Challenge Amigo Secreto de Alura_Latam
 Desafío de amigo secreto como asignación de formación en programación de Alura_Latam
 Versión Final, utilizando el repositorio base y agregando posteriormente, la lógica e instrucciones de código mediante JavaScript
 
