@@ -2,10 +2,6 @@
 Desafío de amigo secreto como asignación de formación en programación de Alura_Latam
 Versión Final, utilizando el repositorio base y agregando posteriormente, la lógica e instrucciones de código mediante JavaScript
 
-# Challenge_amigo_secreto-Alura_Latam
-Desafío de amigo secreto como asignación de formación en programación de Alura_Latam
-Versión final, utilizando el repositorio base que fue entregado en la formación, y agregando las instrucciones por código de JavaScript.
-
 # Amigo Secreto
 
 ## Funcionalidades
