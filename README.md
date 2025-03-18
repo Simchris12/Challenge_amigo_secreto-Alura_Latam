@@ -37,7 +37,7 @@ Versión final, utilizando el repositorio base que fue entregado en la formació
 
 ## Estructura del Proyecto
 ```
-📂 amigo-secreto
+📂 HTML
 │-- 📜 index.html  # Estructura del juego
 │-- 📜 styles.css  # Estilos visuales
 │-- 📜 script.js   # Lógica del juego
